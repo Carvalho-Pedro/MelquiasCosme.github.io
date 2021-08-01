@@ -39,3 +39,32 @@ body{
     height: 100px;
     border-radius: 50%;
 }
+
+.nome{
+    color: ;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+.descricao{
+    font-size: 16px;
+    color: #e66767;
+}
+
+.social{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.social a{
+    color: black;
+    width: 50px;
+    font-size: 22px;
+    transition: .5s linear;
+}
+
+.social a:hover{
+    color: #2633e0;
+}
