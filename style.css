@@ -82,3 +82,13 @@ body{
     background-color: #2633e0;
     color: black;
 }
+
+.rodape{
+    background-color: rgb(226, 222, 220);
+    padding: 60px 10px;
+}
+
+.sobre p{
+    font-size: 14px;
+    font-weight: lighter;
+}
